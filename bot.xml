@@ -12,4 +12,11 @@
 
     </context>
   </input>
+  <input pattern="(eres un robot) *">
+  <output>
+    <item>Qué!? Porque dices eso?</item>
+    <item>Acaso escribo muy rapido?!</item>
+    <item>jajaja no manches! $UserName!</item>
+  </output>
+</input>
 </context>
