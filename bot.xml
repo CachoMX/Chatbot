@@ -34,4 +34,10 @@
     </input>
   </context>
 </input>
+   <input pattern="(test|prueba) *">
+  <output>
+    <item>Qué quieres probar!?</item>
+    <item>¿¿¿que te traes entre manos he!???</item>
+  </output>
+</input>
 </context>
